@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-todo-mui/static/js/main.214510bf.js",
-    "index.html": "/react-todo-mui/index.html",
-    "main.214510bf.js.map": "/react-todo-mui/static/js/main.214510bf.js.map"
+    "main.js": "/static/js/main.214510bf.js",
+    "index.html": "/index.html",
+    "main.214510bf.js.map": "/static/js/main.214510bf.js.map"
   },
   "entrypoints": [
     "static/js/main.214510bf.js"
