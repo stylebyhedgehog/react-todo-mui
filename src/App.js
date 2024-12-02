@@ -18,7 +18,7 @@ const App = () => (
         </AppBar>
         <Container>
             <Routes>
-                <Route path="/react-todo-mui" element={<HomePage />} />
+                <Route path="/" element={<HomePage />} />
                 <Route path="/about" element={<AboutPage />} />
             </Routes>
         </Container>
